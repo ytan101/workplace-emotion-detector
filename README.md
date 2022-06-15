@@ -24,7 +24,7 @@ This implementation is done with Streamlit serving as the webapp.
 streamlit run app.py
 ```
 ## Screencast Emotion Detection
-![screencast](https://media.giphy.com/media/LqGCghweu6LabMuHcA/giphy.gif)
+![screencast](https://media.giphy.com/media/LqGCghweu6LabMuHcA/giphy.gif)<br>
 To run:
 - Navigate to `src`
 - Run the python package command below
