@@ -1,4 +1,4 @@
-# run simple loopback for Streamlit 
+# run simple loopback for Streamlit
 import streamlit as st
 from streamlit_webrtc import webrtc_streamer
 
