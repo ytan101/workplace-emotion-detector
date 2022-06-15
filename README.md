@@ -17,7 +17,7 @@ pip install -r requirements.txt
 ```
 ## Webcam Emotion Detection
 ![webcam](https://media.giphy.com/media/6sEUmqgJU1K6vAfIvo/giphy.gif)<br>
-This implementation is done with Streamlit serving as the webapp.
+This implementation is done with Streamlit serving the webapp.
 - Navigate to `src/webcam_feed`
 - Run the Streamlit command below
 ```
