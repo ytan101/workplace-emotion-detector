@@ -4,10 +4,10 @@ import cv2
 import numpy as np
 from keras.models import load_model
 
-from .. import constants
-
 # Load models from Directory
-model = load_model(constants.MODEL_PATH)
+model = load_model("../models/6_classes")
+
+# print(os.getcwd())
 
 
 class EmotionDetection:
@@ -49,7 +49,7 @@ class EmotionDetection:
         size = 4
 
         # We load the xml file from opencv
-        classifier = cv2.CascadeClassifier(constants.HAAR_PATH)
+        classifier = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 
         im = frame.to_ndarray(format="bgr24")
         im = cv2.flip(im, 1, 1)  # Flip to act as a mirror
