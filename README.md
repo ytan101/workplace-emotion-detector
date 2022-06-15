@@ -1,7 +1,7 @@
 # Emotion Detection for Webcam and Screencast
 This project is based on the FER2013 dataset and is an implementation to try and detect different facial emotions using a Tensorflow implementation. Our primary usecase was to try and detect the faces of online meetings so that presenters can guage the audience reactions and get a live general sentiment on their audience.
 
-This project was made possible with the contributions of the following people:
+This project was made possible with the contributions of the following people:<br>
 https://github.com/cweien3008<br>
 https://github.com/InitialCnotD<br>
 https://github.com/Jamessukanto<br>
