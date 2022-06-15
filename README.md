@@ -8,7 +8,8 @@ pip install -r requirements.txt
 - Create an empty folder in `src` called `models` and load your pre-trained Tensorflow models
 - 
 ## Webcam Emotion Detection
+![webcam](https://media.giphy.com/media/6sEUmqgJU1K6vAfIvo/giphy.gif)
 ```
 ```
 ## Screencast Emotion Detection
-![alt text](https://github.com/ytan101/workplace-emotion-detector/blob/documentation/figures/screencast.gif "Logo Title Text 1")
+![screencast](https://media.giphy.com/media/LqGCghweu6LabMuHcA/giphy.gif)
