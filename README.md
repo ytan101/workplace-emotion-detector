@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ## Webcam Emotion Detection
 ![webcam](https://media.giphy.com/media/6sEUmqgJU1K6vAfIvo/giphy.gif)<br>
 This implementation is done with Streamlit serving as the webapp.
-- Navigate to src/webcam_feed
+- Navigate to `src/webcam_feed`
 - Run the Streamlit command below
 ```
 streamlit run app.py
@@ -26,6 +26,8 @@ streamlit run app.py
 ## Screencast Emotion Detection
 ![screencast](https://media.giphy.com/media/LqGCghweu6LabMuHcA/giphy.gif)
 To run:
+- Navigate to `src`
+- Run the python package command below
 ```
 python -m src.screencast.screen_capture
 ```
